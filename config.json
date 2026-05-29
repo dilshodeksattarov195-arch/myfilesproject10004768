@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configencrypt",
+        "uuid": 32465312,
+        "checksum": "rb3h3g"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
